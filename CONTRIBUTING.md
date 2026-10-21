@@ -4,4 +4,4 @@
 Clone the repository and run the project locally.
 
 ## Placeholder Section
-This section will be completed by the team later.
+This section will be completed by the team in the next sprint.
