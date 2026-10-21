@@ -4,6 +4,7 @@
 Clone the repository and run the project locally.
 
 ## Placeholder Section
+<<<<<<< HEAD
 This section will be completed by the team later.
 
 ## Branch Naming and Commit Conventions
@@ -18,3 +19,6 @@ This section will be completed by the team later.
 - Use the imperative mood, e.g. "Add login form"
 - Format: type: short summary (max 50 characters)
 - Types: feat, fix, docs, refactor, test, chore
+=======
+This section will be completed by the team in the next sprint.
+>>>>>>> main
